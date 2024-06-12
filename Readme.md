@@ -1,6 +1,6 @@
 # Fall Detection Application
 
-## Fall Detection Application Presentation
+## Fall Detection Application Presentation (Thai Language)
 [![IMAGE ALT TEXT](https://github.com/chaloemchai-beer/Image/blob/main/Screenshot%202024-06-12%20180857.png?raw=true)](https://www.youtube.com/embed/37Hv5lHzm2g?feature=oembed "Video Title")
 
 This is a Flask web application that uses the YOLOv8 object detection model to detect falls in real-time video streams. When a fall is detected, the application sends an alert notification to a LINE Notify channel along with the frame where the fall was detected.
